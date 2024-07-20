@@ -54,6 +54,14 @@ If you're getting started and need assistance or face any bugs, join our active 
 - ShadCN
 - Twilio
 
+Tech Stack used in this project are:
+•	Next.js : Next.js is used for server-side scripting, built-in routing, API routes, Automatic code splitting and static exporting.
+•	Appwrite: Appwrite is backend as a service(baaS) platform used for database management, user authentication, storage, scalability and security.
+•	Typescript : Typescript is used for static typing and server-side maintainability.
+•	TailwindCSS : Tailwind CSS is a framework used for utility-first approach, consistency, responsiveness, and compatible with Next.js.
+•	ShadCN : shadCN is a library designed to simplify the process of integrating component libraries with popular CSS frameworks like Tailwind CSS
+•	Twilio : Twilio is a cloud communications platform that provides a range of APIs for integrating various communication services into applications. In the context of the HealthQube project, Twilio is used for SMS and Email Notifications.
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Register as a Patient**: Users can sign up and create a personal profile as a patient.
